@@ -1,0 +1,24 @@
+co/com/taller/automatizacion/tasks/Adicionarcamara.java
+ co.com.taller.automatizacion.tasks.Adicionarcamara
+co/com/taller/automatizacion/tasks/CarritoCompra.java
+ co.com.taller.automatizacion.tasks.CarritoCompra
+co/com/taller/automatizacion/userinterface/Electronicospage.java
+ co.com.taller.automatizacion.userinterface.Electronicospage
+co/com/taller/automatizacion/tasks/AgregarProducto.java
+ co.com.taller.automatizacion.tasks.AgregarProducto
+co/com/taller/automatizacion/tasks/SelecionarElementos.java
+ co.com.taller.automatizacion.tasks.SelecionarElementos
+co/com/taller/automatizacion/questions/ValidarMensaje.java
+ co.com.taller.automatizacion.questions.ValidarMensaje
+co/com/taller/automatizacion/userinterface/Escritorio.java
+ co.com.taller.automatizacion.userinterface.Escritorio
+co/com/taller/automatizacion/questions/PrecioCamara.java
+ co.com.taller.automatizacion.questions.PrecioCamara
+co/com/taller/automatizacion/questions/ValidarNombreCamara.java
+ co.com.taller.automatizacion.questions.ValidarNombreCamara
+co/com/taller/automatizacion/questions/Validarprecio.java
+ co.com.taller.automatizacion.questions.Validarprecio
+co/com/taller/automatizacion/questions/Validarnombre.java
+ co.com.taller.automatizacion.questions.Validarnombre
+co/com/taller/automatizacion/userinterface/HomePage.java
+ co.com.taller.automatizacion.userinterface.HomePage

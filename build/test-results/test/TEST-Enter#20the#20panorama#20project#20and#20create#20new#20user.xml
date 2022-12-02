@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Enter the panorama project and create new user" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-27T02:44:17" hostname="DESKTOP-2U5I7TK" time="23.353">
+  <properties/>
+  <testcase name="Prueba 4" classname="Enter the panorama project and create new user" time="23.353"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[nov 26, 2022 9:44:18 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 46374
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+nov 26, 2022 9:44:22 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>

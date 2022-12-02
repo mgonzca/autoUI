@@ -1,0 +1,4 @@
+co/com/taller/automatizacion/stepdefinition/AutoStepdefinition.java
+ co.com.taller.automatizacion.stepdefinition.AutoStepdefinition
+co/com/taller/automatizacion/runner/Automatizacion.java
+ co.com.taller.automatizacion.runner.Automatizacion
