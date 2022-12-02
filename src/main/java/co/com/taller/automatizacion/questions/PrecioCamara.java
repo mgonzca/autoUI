@@ -7,6 +7,7 @@ import net.serenitybdd.screenplay.questions.Text;
 
 public class PrecioCamara implements Question<String> {
     @Override
+    //CAMBIO PARA PRUEBA GIT #2
     public String answeredBy(Actor actor) {
         return Text.of(Electronicospage.PRECIO).viewedBy(actor).asString();
     }
