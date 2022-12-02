@@ -6,6 +6,8 @@ import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.questions.Text;
 
 public class PrecioCamara implements Question<String> {
+    //CAMBIO REALIZADO PARA PRUEBA GIT #4
+    //CAMBIO REALIZADO PARA PRUEBA GIT #3
     @Override
     //CAMBIO PARA PRUEBA GIT #2
     public String answeredBy(Actor actor) {
